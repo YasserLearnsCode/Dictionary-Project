@@ -8,7 +8,6 @@ function App() {
       <div className="container">
         <header className="App-header">
           <img src={logo} className="App-logo img-fluid" alt="logo"></img>
-          <h1>Word look up</h1>
         </header>
         <main>
           <Dictionary />
