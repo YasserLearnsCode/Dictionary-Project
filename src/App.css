@@ -1,3 +1,8 @@
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
 body {
   background-color: rgb(249, 244, 244);
 }
@@ -5,6 +10,7 @@ body {
 a {
   color: rgb(249, 80, 80);
 }
+
 .App-header {
   margin: 30px 0;
 }
@@ -18,5 +24,6 @@ a {
 .App footer {
   text-align: center;
   margin: 30px auto;
+  font-size: 13px;
 }
 
